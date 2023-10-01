@@ -1,0 +1,20 @@
+#header-footer-div {
+    background-color: #1F2937;
+}
+
+#header-footer-div h2 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+#header-inner-content-div h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+#header-inner-content-div p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
