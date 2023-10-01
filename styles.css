@@ -18,3 +18,36 @@
     color: #E5E7EB;
 }
 
+#outer-div-three-call-to-action h3, #outer-div-three-call-to-action p, button {
+    background-color: #3882F6;
+}
+
+#outer-div-one-images h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+#outer-div-three-call-to-action, #outer-div-one-images {
+    background-color: white;
+}
+
+#outer-div-two-quotes {
+    background-color: #E5E7F6;
+}
+
+#outer-div-two-quotes .quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+#outer-div-two-quotes .quoter {
+    font-weight: bold;
+}
+
+footer {
+    color: white;
+    font-weight: lighter;
+}
