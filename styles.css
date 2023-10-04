@@ -1,6 +1,7 @@
-#header-footer-div {
+#header-footer-div, #header-inner-content-div, .footer {
     background-color: #1F2937;
 }
+
 
 #header-footer-div h2 {
     font-size: 24px;
@@ -18,9 +19,10 @@
     color: #E5E7EB;
 }
 
-#outer-div-three-call-to-action h3, #outer-div-three-call-to-action p, button {
+#outer-div-three-call-to-action, button {
     background-color: #3882F6;
 }
+
 
 #outer-div-one-images h2 {
     font-size: 36px;
@@ -28,8 +30,14 @@
     color: #1F2937;
 }
 
-#outer-div-three-call-to-action, #outer-div-one-images {
+#call-to-action-container, #outer-div-one-images {
     background-color: white;
+}
+
+#call-to-action-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #outer-div-two-quotes {
