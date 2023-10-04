@@ -23,6 +23,15 @@
     background-color: #3882F6;
 }
 
+#outer-div-three-call-to-action {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 15px;
+    padding: 15px;
+    margin: 25px;
+    border-radius: 31px;
+}
+
 
 #outer-div-one-images h2 {
     font-size: 36px;
@@ -85,4 +94,10 @@ img {
 footer {
     text-align: center;
     padding: 13px;
+}
+
+button {
+    border-radius: 23px;
+    color: whitesmoke;
+    font-weight: bold;
 }
