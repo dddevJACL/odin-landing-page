@@ -64,7 +64,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    flex: 1;
+    flex: 1 1 auto;
     text-align: auto;
 }
 
@@ -72,4 +72,9 @@ footer {
 img {
     width: 200px;
     height: 300px;
+}
+
+footer {
+    text-align: center;
+    padding: 13px;
 }
