@@ -75,6 +75,11 @@ footer {
     font-weight: lighter;
 }
 
+.inner-images {
+    border: 5px solid #3882F6;
+    border-radius: 13px;
+}
+
 .images {
     display: flex;
     gap: 10px;
