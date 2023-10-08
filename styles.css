@@ -2,6 +2,9 @@
     background-color: #1F2937;
 }
 
+#header-footer-div {
+    padding: 13px;
+}
 
 #header-footer-div h2 {
     font-size: 24px;
