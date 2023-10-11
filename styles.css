@@ -2,6 +2,10 @@
     background-color: #1F2937;
 }
 
+#logo {
+    align-self: flex-start;
+}
+
 #header-footer-div {
     padding: 13px;
 }
