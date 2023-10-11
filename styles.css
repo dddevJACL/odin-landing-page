@@ -6,6 +6,11 @@
     padding: 13px;
 }
 
+#header-links {
+    display: flex;
+    justify-content: flex-end;
+}
+
 #header-footer-div h2 {
     font-size: 24px;
     color: #F9FAF8;
